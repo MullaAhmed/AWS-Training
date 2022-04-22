@@ -1,5 +1,3 @@
-mkdir Ahmed
-cd Ahmed
 mkdir Dataset
 cd Dataset
 mkdir train
